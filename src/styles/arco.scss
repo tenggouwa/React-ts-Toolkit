@@ -1,0 +1,35 @@
+@import './common.scss';
+
+.arco-layout-content {
+  background: transparent !important;
+  justify-content: inherit !important;
+  .searchForm {
+    background: #fff;
+    padding: 20px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+  }
+  .pageTool {
+    background: #fff;
+    border-radius: 6px;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: right;
+  }
+  .pageContent {
+    background: #fff;
+    border-radius: 6px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+}
+.arco-spin {
+  width: 100%;
+}
+.arco-spin-loading {
+  width: 100%;
+}
+.arco-typography {
+  margin-bottom: 0 !important;
+}
